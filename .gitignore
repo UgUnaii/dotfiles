@@ -1,2 +1,5 @@
 scoop
-lazy-lock.json
+nvim/lazy-lock.json
+pwsh/Scripts
+pwsh/Modules
+.minecraft
